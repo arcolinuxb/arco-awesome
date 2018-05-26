@@ -218,7 +218,7 @@ poppler-glib
 atom
 catfish
 chromium
-#compton
+compton
 darktable
 dmenu
 evolution
@@ -249,7 +249,7 @@ vlc
 #zoom
 
 #conky
-jq
+#jq
 lm_sensors
 
 #cursors
@@ -344,7 +344,7 @@ lsb-release
 mlocate
 nomacs
 p7zip
-plank
+#plank
 playerctl
 polkit
 polkit-gnome
@@ -390,7 +390,7 @@ zsh-syntax-highlighting
 gtk-xfce-engine
 xfce4
 #mousepad
-xfce4-goodies
+#xfce4-goodies
 
 #############################
 #arcolinux_repo_iso 3th party
@@ -450,9 +450,9 @@ glxinfo
 grub-customizer
 hardcode-fixer-git
 inxi
-menulibre
+#menulibre
 mintstick-git
-mugshot
+#mugshot
 neofetch
 oh-my-zsh-git
 oomox
@@ -484,9 +484,9 @@ arcolinux-bin-git
 #arcolinux-bspwm-git
 arcolinux-common-git
 arcolinux-config-git
-arcolinux-conky-collection-git
+#arcolinux-conky-collection-git
 #arcolinux-docs-git
-arcolinux-faces-git
+#arcolinux-faces-git
 arcolinux-geany-git
 #arcolinux-i3wm-git
 arcolinux-keyring
@@ -498,9 +498,9 @@ arcolinux-nitrogen-git
 #arcolinux-obmenu-generator-git
 #arcolinux-openbox-configs-git
 #arcolinux-openbox-themes-git
-arcolinux-pipemenus-git
-arcolinux-plank-git
-arcolinux-plank-themes-git
+#arcolinux-pipemenus-git
+#arcolinux-plank-git
+#arcolinux-plank-themes-git
 #arcolinux-polybar-git
 arcolinux-rofi-git
 arcolinux-rofi-themes-git
@@ -517,7 +517,7 @@ arcolinux-xfce-thunar-git
 #Calamares installer
 calamares
 boost-libs
-arcolinuxb-calamares-xfce-git
+arcolinuxb-calamares-awesome-git
 
 #Desktop specific
 awesome
