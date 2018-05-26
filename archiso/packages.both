@@ -295,7 +295,7 @@ slim
 #openbox
 #gtk2-perl
 #obconf
-#oblogout
+oblogout
 #openbox
 
 #themes
@@ -494,7 +494,7 @@ arcolinux-local-git
 arcolinux-neofetch-git
 #arcolinux-neofetch-ascii-git
 arcolinux-nitrogen-git
-#arcolinux-oblogout-themes-git
+arcolinux-oblogout-themes-git
 #arcolinux-obmenu-generator-git
 #arcolinux-openbox-configs-git
 #arcolinux-openbox-themes-git
