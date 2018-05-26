@@ -523,3 +523,12 @@ arcolinuxb-calamares-awesome-git
 #Desktop specific
 awesome
 vicious
+
+#Missing applications if xfce4 is not installed
+xfce4-settings
+xfce4-taskmanager
+xfce4-power-manager
+xfce4-clipman-plugin
+xfce4-screenshooter
+xfce4-appfinder
+lxappearance
