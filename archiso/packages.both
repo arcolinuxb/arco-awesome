@@ -517,6 +517,7 @@ arcolinux-xfce-thunar-git
 #Calamares installer
 calamares
 boost-libs
+qt4
 arcolinuxb-calamares-awesome-git
 
 #Desktop specific
