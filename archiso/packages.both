@@ -303,7 +303,7 @@ adapta-gtk-theme
 arc-gtk-theme
 
 #utilities
-#arandr
+arandr
 asciinema
 bash-completion
 baobab
@@ -340,7 +340,7 @@ kpmcore
 libmtp
 laptop-detect
 lsb-release
-#lxrandr
+lxrandr
 mlocate
 nomacs
 p7zip
@@ -490,12 +490,12 @@ arcolinux-config-git
 #arcolinux-conky-collection-git
 #arcolinux-docs-git
 #arcolinux-faces-git
-arcolinux-geany-git
+#arcolinux-geany-git
 #arcolinux-i3wm-git
 arcolinux-keyring
 arcolinux-lightdm-gtk-greeter
 arcolinux-lightdm-gtk-greeter-settings
-arcolinux-local-git
+#arcolinux-local-git
 arcolinux-neofetch-git
 #arcolinux-neofetch-ascii-git
 arcolinux-nitrogen-git
@@ -526,8 +526,8 @@ arcolinux-xfce-thunar-git
 #Calamares installer
 calamares
 boost-libs
-qt4
 arcolinuxb-calamares-awesome-git
+qt4
 
 #Desktop specific
 awesome
