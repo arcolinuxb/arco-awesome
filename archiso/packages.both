@@ -253,7 +253,7 @@ vlc
 lm_sensors
 
 #cursors
-xcursor-simpleandsoft
+#xcursor-simpleandsoft
 
 #fonts
 adobe-source-sans-pro-fonts
@@ -309,7 +309,7 @@ bash-completion
 baobab
 catfish
 cmatrix
-cool-retro-term
+#cool-retro-term
 dconf-editor
 dialog
 dmidecode
@@ -329,10 +329,10 @@ gpick
 gtop
 hardinfo
 htop
-hunspell
-hunspell-en
-hyphen
-hyphen-en
+#hunspell
+#hunspell-en
+#hyphen
+#hyphen-en
 grsync
 intltool
 iw
@@ -362,7 +362,7 @@ rofi
 rsync
 rxvt-unicode
 simple-scan
-shotwell
+#shotwell
 speedtest-cli
 squashfs-tools
 timeshift
@@ -380,8 +380,8 @@ wget
 wmctrl
 xapps
 xdg-desktop-portal-gtk
-xcape
-xfburn
+#xcape
+#xfburn
 zenity
 zsh-completions
 zsh-syntax-highlighting
@@ -401,10 +401,10 @@ vivaldi
 vivaldi-codecs-ffmpeg-extra-bin
 
 #cursors
-breeze-cursors-lh
-breeze-obsidian-cursor-theme
+#breeze-cursors-lh
+#breeze-obsidian-cursor-theme
 xcursor-breeze
-xcursor-vanilla-dmz-aa
+#xcursor-vanilla-dmz-aa
 
 #fonts
 ttf-font-awesome
@@ -455,12 +455,12 @@ mintstick-git
 #mugshot
 neofetch
 oh-my-zsh-git
-oomox
+#oomox
 package-query
-packer
+#packer
 pamac-aur
 peek
-pulseaudio-equalizer-ladspa
+#pulseaudio-equalizer-ladspa
 python-pywal
 screenkey
 sublime-text-dev
