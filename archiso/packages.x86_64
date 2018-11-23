@@ -435,7 +435,6 @@ mkinitcpio-openswap
 aurvote-git
 conky-lua-archers
 downgrade
-expac
 font-manager
 glxinfo
 #google-talkplugin
@@ -462,7 +461,6 @@ urxvt-resize-font-git
 wttr
 yad
 yay-bin
-youtube-dl
 
 #############################
 #Games
