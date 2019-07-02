@@ -18,7 +18,7 @@
 #Setting variables
 #Let us change the name"
 #First letter of desktop small
-desktop="awesome-min"
+desktop="awesome"
 calamaresdesktopname="awesome"
 
 #build.sh
