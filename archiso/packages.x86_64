@@ -503,14 +503,14 @@ arcolinux-awesome-git
 arcolinux-bin-git
 #arcolinux-bspwm-git
 #arcolinux-common-git
-#arcolinux-config-awesome-git
+arcolinux-config-awesome-git
 #arcolinux-config-bspwm-git
 #arcolinux-config-budgie-git
 #arcolinux-config-cinnamon-git
 #arcolinux-config-deepin-git
 #arcolinux-config-dwm-git
 #arcolinux-config-enlightenment-git
-arcolinux-config-git
+#arcolinux-config-git
 #arcolinux-config-gnome-git
 #arcolinux-config-herbstluftwm-git
 #arcolinux-config-i3-git
