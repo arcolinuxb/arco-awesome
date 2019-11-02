@@ -552,8 +552,8 @@ arcolinux-mirrorlist-git
 #arcolinux-mate-git
 arcolinux-neofetch-git
 arcolinux-nitrogen-git
-#arcolinux-oblogout
-arcolinux-oblogout-awesome
+arcolinux-oblogout
+#arcolinux-oblogout-awesome
 #arcolinux-oblogout-bspwm
 #arcolinux-oblogout-herbstluftwm
 #arcolinux-oblogout-qtile
