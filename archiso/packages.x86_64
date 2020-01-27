@@ -716,7 +716,7 @@ lxappearance
 ### xfce4 group content
 # https://www.archlinux.org/groups/x86_64/xfce4/
 exo
-garcon
+#garcon
 thunar
 thunar-volman
 tumbler
@@ -777,6 +777,9 @@ xfce4-taskmanager
 ###########################################################################
 #                                ISO SPECIFIC
 ###########################################################################
+
+#polybar
+#polybar
 
 #desktop specific awesome
 awesome
